@@ -1,25 +1,25 @@
 <div align="center">
   <h2>
-    <samp>&gt; Hey There! <b><a target="_blank" href="https://www.nexoscreator.tech">Welcome</a></b></samp>
+    <samp>&gt; it's Julien ! <b><a target="_blank" href="https://ready2be1.wordpress.com">explore</a></b></samp>
   </h2>
   <p>
-    <samp>「 I'm passionate about OS development, web development, game development, and content creation on YouTube & blogs. 」</samp>
+    <samp>「 I'm passionate about OS development, web development, script development, and content creation on music production & writing. 」</samp>
   </p> 
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@nexoscreator">
+  <a href="https://Instagram.com/@Julien100">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="mailto:contact@nexoscreator.tech">
+  <a href="mailto:mjjp123@yahoo.fr">
     <img alt="Outlook" src="https://img.shields.io/static/v1?message=Outlook&logo=gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/nexoscreator">
+  <a href="https://twitter.com/mabitedanstoncul">
     <img alt="Twitter" src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="https://paypal.me/nexoscreator">
+  <a href="https://paypal.me/Mjjp123">
     <img alt="PayPal" src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" />
-     <a href="https://paypal.me/nexoscreator">
+     <a href="https://paypal.me/Mjjp123">
     <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=red" />
   </a>
 </div>
@@ -42,10 +42,10 @@
 
 ### 📫 **Join Our Community**
 
-[![Join Discord](http://invidget.switchblade.xyz/832187937675804683)](https://discord.gg/H7pVc9aUK2)
+[![Join Discord](http://invidget.switchblade.xyz/8321879376758046993)](https://discord.gg/H7pVc9aUcK2)
 
 ---
 
-### 🎯 **Support Us**
+### **Support Us**
 
 If you like our work and want to support us, consider **starring ⭐ our repositories** or **sponsoring 💖 us on GitHub**!
