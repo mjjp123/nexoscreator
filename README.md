@@ -1,25 +1,25 @@
 <div align="center">
   <h2>
-    <samp>&gt; Hey There! <b><a target="_blank" href="https://www.nexoscreator.tech">Welcome</a></b></samp>
+    <samp>&gt; Hey ! Si tu cherches une bonne bite dans ton cul , c'est le bon endroit<b><a target="_blank" href="https://www.assoifèdesexe.com">Welcome</a></b></samp>
   </h2>
   <p>
-    <samp>「 I'm passionate about OS development, web development, game development, and content creation on YouTube & blogs. 」</samp>
+    <samp>「 si tu as faim de bite est que tu suces comme une grosse salope , contacte moi , je vais te péter la chate. 」</samp>
   </p> 
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@nexoscreator">
+  <a href="https://youtube.com/@sucemoilabite">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="mailto:contact@nexoscreator.tech">
+  <a href="mailto:grossepute@gmail.com">
     <img alt="Outlook" src="https://img.shields.io/static/v1?message=Outlook&logo=gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/nexoscreator">
+  <a href="https://twitter.com/grossepetasse">
     <img alt="Twitter" src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="https://paypal.me/nexoscreator">
+  <a href="https://paypal.me/puresalope">
     <img alt="PayPal" src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" />
-     <a href="https://paypal.me/nexoscreator">
+     <a href="https://paypal.me/puresalope">
     <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=red" />
   </a>
 </div>
